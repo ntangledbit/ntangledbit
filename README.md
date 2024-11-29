@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ntangledbit
+- 👀 I’m interested in Rust & Python programming langugues
+- 🌱 I’m currently learning how to build scalable, distributed data systems
+- 💞️ I’m looking to collaborate on distributed computing projects
+- 😄 Pronouns: He/Him
