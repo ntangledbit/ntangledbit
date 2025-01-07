@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ntangledbit
+- 👋 Hi, I’m Raaghu
 - 👀 I’m interested in Rust & Python programming langugues
 - 🌱 I’m currently learning how to build scalable, distributed data systems
 - 💞️ I’m looking to collaborate on distributed computing projects
